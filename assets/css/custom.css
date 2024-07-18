@@ -1,0 +1,32 @@
+/* Custom CSS for MkDocs Material */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.md-nav__link, .md-typeset .headerlink {
+    color: #3f51b5;
+}
+
+.md-header {
+    background-color: #3f51b5;
+}
+
+.md-footer {
+    background-color: #3f51b5;
+    color: white;
+}
+
+.md-nav__title {
+    font-weight: bold;
+    color: white;
+}
+
+.md-sidebar--secondary {
+    background-color: #f1f1f1;
+}
+
+/* Logo specific styling */
+.md-header__inner .md-header__title img {
+    max-height: 40px;
+}
