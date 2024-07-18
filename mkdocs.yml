@@ -49,16 +49,16 @@ extra_css:
   - assets/css/custom.css
 
 nav:
-  - Home:
-      - Start here: index.md
+  - Home: index.md
   - Project Documentation:
+      - Get Started: project-docs/get-started.md
       - Product Requirements Document (PRD):
-          - Discovery and Ideation — Worksheet: new-project-kit/docs-template/discovery_and_ideation_worksheet_template.md
-          - PRD Template: new-project-kit/docs-template/prd_template.md
+          - Discovery and Ideation — Worksheet: project-docs/discovery_and_ideation_worksheet_template.md
+          - PRD Template: project-docs/prd_template.md
       - Technical Design Documentation:
-          - TDD Template: new-project-kit/docs-template/tdd_template.md
-          - TDD Template (with examples): new-project-kit/docs-template/tdd_template_with_examples.md
-  - Codebase Reference: index.md
+          - TDD Template: project-docs/tdd_template.md
+          - TDD Template (with examples): project-docs/tdd_template_with_examples.md
+  # - Codebase Reference: index.md
 
 
 extra:
