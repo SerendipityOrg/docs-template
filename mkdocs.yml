@@ -58,7 +58,8 @@ nav:
       - Technical Design Documentation:
           - TDD Template: project-docs/tdd_template.md
           - TDD Template (with examples): project-docs/tdd_template_with_examples.md
-  # - Codebase Reference: index.md
+  - Codebase Reference: code-reference/index.md
+  - Dev. Guidelines: dev-guidelines/index.md
 
 
 extra:
